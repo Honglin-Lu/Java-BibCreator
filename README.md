@@ -6,21 +6,22 @@ This is a school project using pure Java to practice ***Exception Handling***, a
 articles) and create 3 different files with the correct reference formats for IEEE, ACM and NJ. The source code here is just for others to study. ***It is absolutely not allowed to use for cheating!***
 
 ## Original File Format Example
+```txt
 @ARTICLE{  
-8247289,  
-author={J. Park and J. N. James and Q. Li and Y. Xu and W. Huang},  
-journal={IEEE Transactions on Vehicular Technology},  
-title={Optimal DASH-Multicasting over LTE},  
-year={2018},  
-volume={PP},  
-number={99},  
-pages={15-27},  
-keywords={Forward error correction;Long Term Evolution;Maintenance engineering;Multicast
-communication;Resourcemanagement;Static VAr compensators;Streamingmedia;DASH;LTE;convexoptimization;eMBMS;multicasting},  
-doi={10.1109/TVT.2018.2789899}, ISSN={0018-9545},  
-month={January},  
+    8247289,  
+    author      =   {J. Park and J. N. James and Q. Li and Y. Xu and W. Huang},  
+    journal     =   {IEEE Transactions on Vehicular Technology},  
+    title       =   {Optimal DASH-Multicasting over LTE},  
+    year        =   {2018},  
+    volume      =   {PP},  
+    number      =   {99},  
+    pages       =   {15-27},  
+    keywords    =   {Forward error correction;Long Term Evolution;Maintenance engineering;Multicast
+                    communication;Resourcemanagement;Static VAr compensators;Streamingmedia;DASH;LTE;convexoptimization;eMBMS;multicasting},  
+    doi         =   {10.1109/TVT.2018.2789899}, ISSN={0018-9545},  
+    month       =   {January},  
 }
-
+```
 ## New File Format Example
 
 #### IEEE Format
